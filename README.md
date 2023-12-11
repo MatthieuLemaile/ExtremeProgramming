@@ -38,13 +38,13 @@
 
 **Objectifs** :
 
-* Planifier les 2 prochaines itérations pour le développement de l'application
+* Planifier les 3 prochaines itérations pour le développement de l'application
 
 **Instructions** :
 
-* Vous devez planifier 2 _sprints_ :
-  * Pour un sprint de 3h30
-  * Pour un groupe de 6 personnes
+* Vous devez planifier 3 _sprints_ :
+  * Pour un sprint de 3h
+  * Pour un groupe de 4 personnes
   * Pour des binômes
 * Vous devez définir un objectif aux _sprints_
 * Vous devez sélectionner les _user stories_ de chaque _sprints_
@@ -56,7 +56,7 @@
 **Objectifs** :
 
 * Appliquer les principes de l'_Extreme Programming_ (XP) tels que :
-  * le TDD
+  * Test First
   * la programmation en binôme
   * ...
 * Mettre en oeuvre les concepts de la programmation orienté objet en _Java_
@@ -65,6 +65,6 @@
 **Instructions** :
 
 * Vous devez développer une application de gestion de places de cinéma en utilisant le _framework_ _Spring_ ou _Spring Boot_ et _React_
-* Vous devez utiliser le _TDD_ pour écrire des cas de test pour chaque fonctionnalité de l'application **AVANT** de commencer à écrire le code
+* Vous devez utiliser Test First pour écrire des cas de test pour chaque fonctionnalité de l'application **AVANT** de commencer à écrire le code
 * Vous devez utiliser la programmation en **binôme** pour écrire du code et s'entraider pour résoudre les problèmes
 * Vous devez faire des "**refactorisations**" pour améliorer la qualité et la maintenabilité du code
